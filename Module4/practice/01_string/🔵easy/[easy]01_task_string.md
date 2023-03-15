@@ -14,9 +14,9 @@
 
 ### Решение задачи
 
-```python
-string = input("Введите произвольный текст: ")
-# TODO: you code here...
+string = input("Введите строку:")
+print(symbol[0])
+print(symbol[-1])
 ```
 
 ---
